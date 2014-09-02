@@ -1,0 +1,1 @@
+cc cellgen.c -o cellgen

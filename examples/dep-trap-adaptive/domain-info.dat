@@ -1,0 +1,24 @@
+PASS #1
+----------
+Error		:  3.276842e-02
+New Nodes	: 1088
+Total Nodes	: 1681
+
+PASS #2
+----------
+Error		:  1.061309e-02
+New Nodes	: 2624
+Total Nodes	: 3977
+
+PASS #3
+----------
+Error		:  1.299753e-02
+New Nodes	: 5760
+Total Nodes	: 9017
+
+PASS #4
+----------
+Error		:  4.528277e-03
+New Nodes	: 14008
+Total Nodes	: 21274
+

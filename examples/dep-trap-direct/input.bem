@@ -1,0 +1,38 @@
+NODES
+9668
+nodes.bem
+
+ELEMENTS
+4640
+tria6
+elems.bem
+
+MATERIALS
+2
+1 0.0e-0 1.0
+2 7.5e-1 0.5
+
+INTERFACES
+1
+1 1 2
+
+PROBLEM
+9764 4444
+-5.0e-5	-5.0e-5	-2.4e-5
+5.0e-5	5.0e-5	2.4e-5
+direct
+60 60 60
+120 120 120
+solution.domain
+elems.domain
+bcs.bem
+
+ANALYSIS
+gaussBksb
+
+INTERNALPOINTS
+2646
+internal.bem
+
+COLUMNS
+0

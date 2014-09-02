@@ -1,0 +1,27 @@
+
+depThermal(): Started @ Wed Aug  2 10:57:41 2006
+
+Using 9668 Nodes and 4640 tria6 Elems to solve Thermal Problem
+Number of interfaces: 1
+Number of different materials: 2
+System solver is GAUSSBKSB.
+Domain integral solved using ADAPTIVE method
+depThermal(): calling bodyForce_tria6() ...
+Time in domain integral:		4 m 44.2 s
+depThermal(): calling formMatrix_tria6() ...
+depThermal(): calling gaussBksb() ...
+depThermal(): calling postProcess_tria6() ...
+	thermalPostProcessAdapt_tria6(): doing temperature calculation...
+
+*** depThermal(): performance analysis ***
+TIME READING INPUT: 		0.1 seconds
+TIME IN ASSEMBLY: 		6 m 3.7 s
+TIME IN SOLVER: 		37 m 30.4 s
+TIME IN POST-PROCESSING: 	57.5 seconds
+TOTAL EXECUTION TIME: 	44 m 31.8 s
+
+depThermal(): Finished @ Wed Aug  2 11:42:14 2006
+
+
+**********************************************************
+
